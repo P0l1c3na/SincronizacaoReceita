@@ -1,0 +1,6 @@
+2022-02-24 12:58:04.050  INFO 17336 --- [main] d.s.SincronizacaoReceitaApplicationTests : Starting SincronizacaoReceitaApplicationTests using Java 14.0.1 on phael-policena with PID 17336 (started by phael in C:\Users\phael\Documents\Repositorios\Pessoal\SincronizacaoReceita)
+2022-02-24 12:58:04.051  INFO 17336 --- [main] d.s.SincronizacaoReceitaApplicationTests : No active profile set, falling back to default profiles: default
+2022-02-24 12:58:04.728  INFO 17336 --- [main] d.s.SincronizacaoReceitaApplicationTests : Started SincronizacaoReceitaApplicationTests in 1.117 seconds (JVM running for 2.203)
+2022-02-24 13:12:26.593  INFO 19844 --- [main] d.s.SincronizacaoReceitaApplicationTests : Starting SincronizacaoReceitaApplicationTests using Java 14.0.1 on phael-policena with PID 19844 (started by phael in C:\Users\phael\Documents\Repositorios\Pessoal\SincronizacaoReceita)
+2022-02-24 13:12:26.595  INFO 19844 --- [main] d.s.SincronizacaoReceitaApplicationTests : No active profile set, falling back to default profiles: default
+2022-02-24 13:12:27.906  INFO 19844 --- [main] d.s.SincronizacaoReceitaApplicationTests : Started SincronizacaoReceitaApplicationTests in 2.277 seconds (JVM running for 4.402)
